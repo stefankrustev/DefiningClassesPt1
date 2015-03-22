@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\PhoneInfo\PhoneInfo\bin\Debug\PhoneInfo.exe.config
+\\psf\home\documents\visual studio 2013\Projects\PhoneInfo\PhoneInfo\obj\Debug\PhoneInfo.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\PhoneInfo\PhoneInfo\bin\Debug\PhoneInfo.exe
+\\psf\home\documents\visual studio 2013\Projects\PhoneInfo\PhoneInfo\bin\Debug\PhoneInfo.pdb
+\\psf\home\documents\visual studio 2013\Projects\PhoneInfo\PhoneInfo\obj\Debug\PhoneInfo.exe
+\\psf\home\documents\visual studio 2013\Projects\PhoneInfo\PhoneInfo\obj\Debug\PhoneInfo.pdb
+C:\Users\Toshiba\Documents\telerik\OOP\02\PhoneInfo\PhoneInfo\PhoneInfo\bin\Debug\PhoneInfo.exe.config
+C:\Users\Toshiba\Documents\telerik\OOP\02\PhoneInfo\PhoneInfo\PhoneInfo\obj\Debug\PhoneInfo.exe
+C:\Users\Toshiba\Documents\telerik\OOP\02\PhoneInfo\PhoneInfo\PhoneInfo\obj\Debug\PhoneInfo.pdb
